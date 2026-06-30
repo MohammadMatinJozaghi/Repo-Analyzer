@@ -1,0 +1,1 @@
+from app.tasks.user import send_email_task  # noqa: F401
